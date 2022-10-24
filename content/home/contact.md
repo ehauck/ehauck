@@ -16,13 +16,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #    captcha: false
 
   # Contact details (edit or remove options as required)
   email: eduard.hauck@rub.de
@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: Eduard Hauck
       link: 'https://twitter.com/eduard_hauck'
   #  - icon: video
   #    icon_pack: fas
