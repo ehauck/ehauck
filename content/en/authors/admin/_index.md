@@ -78,28 +78,21 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ---
-{{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/resume_en.pdf" %}}Download my CV{{% /staticref %}}
+
+I want to solve the challenges of digitalization in a way that focuses on citizens and especially on their privacy.
 
 
-I am a PhD candiadate in Cryptography at Ruhr University Bochum.
+For this purpose, I specialized in anonymous authentication methods during my PhD. 
+These enable the operation of robust services, while taking into account the protection of citizens.
+By focusing on anonymity, one of the things I hope to achieve is broader adoption of those infrastructures.
+
+<!--1 anon RKE: protecting eids even against corrution>-->
+In our most recent work, we invented the first end-to-end encryption protocol that guarantees strongest anonymity guarantees, even in the case of corruption of individual users. We can guarantee that confidentiality, authenticity and anonymity are restored even in the event that an attacker temporarily takes control of the end user device. 
 
 
-<welches Problem moechte ich loesen>
-Ich moechte Herausforderung der Digitalisierung auf eine Art und Weise loesen, die den Buerger und insbesondederes dessen Privatheit in den Mittelpunkt stellt. Dazu habe ich mich wahrend meines PhD's in Kryptogrpahie auf anonyme Authentifizierungsmethoden spezialisiert. Diese ermoeglichen es hoechste Authentizitaetsgarantien der Identiaeten der Buerger gegenueber dem Staat mit hoechsten Anonymitaetsgarantien der Buerger zu kombinieren. Die Authentizitaet garantiert hierbei einen Missbrauchs-sicheren Umgang der Buerger mit der staatlichen Infrastruktur und die Anonymitaet der Buerger garantiert, dass die Interaktion von Buerger und Staat nicht missbraucht werden kann. 
-Durch den Fokus auf Anonymitaet erhoffe ich mir unteranderem eine breitere Akzeptanz digitaler Infrastruktur.
-
-# Haves
-<1 anon RKE: eids sogar gegen corrution schuetzen>
-In den turbulenten Zeiten, in denen wir leben ist es wichtiger denje, auch Strategien fuer den Notfall zu haben, wenn etwas schiefgeht. In unserer juengsten Arbeit haben wir deshalb ein Ende-zu-Ende Verschluesselungsprotokoll entwickelt, welches starke Anonymitaetsgarantien, selbst im Falle von Korruption einzelner User hat. Das bedeutet, wenn unser Protokoll auf der Basis starker eID Loesungen verwendet wird um die Kommunikation zwischen staatlichen Stellen und den BuergerInnen durchzufuehren, dann koennen wir selbst im Falle eines Hacks des Endgeraet des Buerger garantieren, dass Vertraulichkeit, Authentizitaet und Anonymitaet sich wiederherstellen. 
-
-
-<2AC online zugang im woertlichen in deutsch reinpacken ?>
-Waehrend meiner Arbeit zu blinden Signaturen, habe ich an Grundbausteinen gearbeitet, die es ermoeglichen Zugang zu online Ressourcen auf eine stark authentifizierte und anonyme Art und Weise zu ermoeglichen. Das heisst, das der Betreiber der Infrastruktur starke Garantien hat, dass der Dienst nicht missbraucht wird und die Nutzer der Dienste so datensparsam wie nur moeglich diese Dienste nutzen.
-
-
-
-
-
+<!--2AC online access literally in german ?>-->
+During our work on blind signatures, we have been working on basic building blocks to enable access to online resources in a strongly authenticated and anonymous manner. This means that infrastructure operators have strong guarantees that the service cannot be abused and citizens have the guarantee that as little data as possible is generated.
 
 
 **********

@@ -1,0 +1,117 @@
+
+@InProceedings{C:HKLN20,
+  author =       "Eduard Hauck and
+                  Eike Kiltz and
+                  Julian Loss and
+                  Ngoc Khanh Nguyen",
+  title =        "Lattice-Based Blind Signatures, Revisited",
+  pages =        "500--529",
+  editor =       "Daniele Micciancio and Thomas Ristenpart",
+  booktitle =    "CRYPTO ~2020, Part~II",
+  volume =       "12171",
+  month =        "aug",
+  publisher =    "Springer, Heidelberg",
+  series =       "{LNCS}",
+  year =         2020,
+  doi =          "10.1007/978-3-030-56880-1_18",
+}
+
+@inproceedings{DBLP:conf/eurocrypt/AlwenBHKLR21,
+  author    = {Jo{\"{e}}l Alwen and
+               Bruno Blanchet and
+               Eduard Hauck and
+               Eike Kiltz and
+               Benjamin Lipp and
+               Doreen Riepel},
+  editor    = {Anne Canteaut and
+               Fran{\c{c}}ois{-}Xavier Standaert},
+  title     = {Analysing the {HPKE} Standard},
+  booktitle = {Advances in Cryptology - {EUROCRYPT} 2021 - 40th Annual International
+               Conference on the Theory and Applications of Cryptographic Techniques,
+               Zagreb, Croatia, October 17-21, 2021, Proceedings, Part {I}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12696},
+  pages     = {87--116},
+  publisher = {Springer},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-77870-5\_4},
+  doi       = {10.1007/978-3-030-77870-5\_4},
+  timestamp = {Thu, 23 Jun 2022 19:55:31 +0200},
+  biburl    = {https://dblp.org/rec/conf/eurocrypt/AlwenBHKLR21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/crypto/HauckKL020,
+  author    = {Eduard Hauck and
+               Eike Kiltz and
+               Julian Loss and
+               Ngoc Khanh Nguyen},
+  editor    = {Daniele Micciancio and
+               Thomas Ristenpart},
+  title     = {Lattice-Based Blind Signatures, Revisited},
+  booktitle = {Advances in Cryptology - {CRYPTO} 2020 - 40th Annual International
+               Cryptology Conference, {CRYPTO} 2020, Santa Barbara, CA, USA, August
+               17-21, 2020, Proceedings, Part {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12171},
+  pages     = {500--529},
+  publisher = {Springer},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/978-3-030-56880-1\_18},
+  doi       = {10.1007/978-3-030-56880-1\_18},
+  timestamp = {Wed, 26 Aug 2020 11:05:34 +0200},
+  biburl    = {https://dblp.org/rec/conf/crypto/HauckKL020.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/eurocrypt/HauckKL19,
+  author    = {Eduard Hauck and
+               Eike Kiltz and
+               Julian Loss},
+  editor    = {Yuval Ishai and
+               Vincent Rijmen},
+  title     = {A Modular Treatment of Blind Signatures from Identification Schemes},
+  booktitle = {Advances in Cryptology - {EUROCRYPT} 2019 - 38th Annual International
+               Conference on the Theory and Applications of Cryptographic Techniques,
+               Darmstadt, Germany, May 19-23, 2019, Proceedings, Part {III}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11478},
+  pages     = {345--375},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-17659-4\_12},
+  doi       = {10.1007/978-3-030-17659-4\_12},
+  timestamp = {Sat, 19 Oct 2019 20:06:10 +0200},
+  biburl    = {https://dblp.org/rec/conf/eurocrypt/HauckKL19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{DBLP:journals/iacr/HauckL17,
+  author    = {Eduard Hauck and
+               Julian Loss},
+  title     = {Efficient and Universally Composable Protocols for Oblivious Transfer
+               from the {CDH} Assumption},
+  journal   = {{IACR} Cryptol. ePrint Arch.},
+  pages     = {1011},
+  year      = {2017},
+  url       = {http://eprint.iacr.org/2017/1011},
+  timestamp = {Mon, 11 May 2020 15:54:38 +0200},
+  biburl    = {https://dblp.org/rec/journals/iacr/HauckL17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/iacr/DowlingHRR22,
+  author    = {Benjamin Dowling and
+               Eduard Hauck and
+               Doreen Riepel and
+               Paul R{\"{o}}sler},
+  title     = {Strongly Anonymous Ratcheted Key Exchange},
+  journal   = {{IACR} Cryptol. ePrint Arch.},
+  pages     = {1187},
+  year      = {2022},
+  url       = {https://eprint.iacr.org/2022/1187},
+  timestamp = {Tue, 27 Sep 2022 16:44:22 +0200},
+  biburl    = {https://dblp.org/rec/journals/iacr/DowlingHRR22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -7,7 +7,7 @@ first_name: Eduard
 last_name: Hauck
 
 # Is this the primary user of the site?
-superuser: true
+superuser: trü
 
 # Role/position/tagline
 role: PhD Candidate of Cryptography
@@ -51,7 +51,7 @@ social:
     link: https://twitter.com/eduard_hauck
     label: Follow me on Twitter
     display:
-      header: true
+      header: trü
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link:       https://scholar.google.co.uk/citations?hl=de&user=sUug8uYAAAAJ
@@ -78,23 +78,26 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ---
-{{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
+<!--Ich bin Doktorand in Kryptographie an der Ruhr-Universität Bochum.
+# Wants
+-->
+{{% staticref "uploads/resume_de.pdf" %}}Lade meinen CV herunter{{% /staticref %}}
+
+<!--welches Problem möchte ich lösen
+# Haves-->
+Ich möchte Herausforderung der Digitalisierung auf eine Art und Weise lösen, die BürgerInnen und insbesondederes deren Privatheit in den Mittelpunkt stellt.
 
 
-I am a PhD candiadate in Cryptography at Ruhr University Bochum.
+Dazu habe ich mich wahrend meines PhD's auf anonyme Authentifizierungsmethoden spezialisiert. 
+Diese ermöglichen den Betrieb robuster Dienste, unter Berücksichtigung des Schutzes der BürgerInnen.
+Durch den Fokus auf Anonymität erhoffe ich mir unter anderem eine breitere Akzeptanz digitaler Infrastruktur.
+
+<!--1 anon RKE: eids sogar gegen corrution schützen>-->
+In unserer jüngsten Arbeit haben wir das erste Ende-zu-Ende Verschlüsselungsprotokoll erfunden, welche stärkste Anonymitätsgarantien, selbst im Falle von Korruption einzelner User garantiert. Wir können selbst im Falle, dass ein Angreifer temporär die Kontrolle des Endgerät übernimmt, garantieren, dass  Vertraulichkeit, Authentizität und Anonymität sich wiederherstellen. 
 
 
-<welches Problem moechte ich loesen>
-Ich moechte Herausforderung der Digitalisierung auf eine Art und Weise loesen, die den Buerger und insbesondederes dessen Privatheit in den Mittelpunkt stellt. Dazu habe ich mich wahrend meines PhD's in Kryptogrpahie auf anonyme Authentifizierungsmethoden spezialisiert. Diese ermoeglichen es hoechste Authentizitaetsgarantien der Identiaeten der Buerger gegenueber dem Staat mit hoechsten Anonymitaetsgarantien der Buerger zu kombinieren. Die Authentizitaet garantiert hierbei einen Missbrauchs-sicheren Umgang der Buerger mit der staatlichen Infrastruktur und die Anonymitaet der Buerger garantiert, dass die Interaktion von Buerger und Staat nicht missbraucht werden kann. 
-Durch den Fokus auf Anonymitaet erhoffe ich mir unteranderem eine breitere Akzeptanz digitaler Infrastruktur.
-
-# Haves
-<1 anon RKE: eids sogar gegen corrution schuetzen>
-In den turbulenten Zeiten, in denen wir leben ist es wichtiger denje, auch Strategien fuer den Notfall zu haben, wenn etwas schiefgeht. In unserer juengsten Arbeit haben wir deshalb ein Ende-zu-Ende Verschluesselungsprotokoll entwickelt, welches starke Anonymitaetsgarantien, selbst im Falle von Korruption einzelner User hat. Das bedeutet, wenn unser Protokoll auf der Basis starker eID Loesungen verwendet wird um die Kommunikation zwischen staatlichen Stellen und den BuergerInnen durchzufuehren, dann koennen wir selbst im Falle eines Hacks des Endgeraet des Buerger garantieren, dass Vertraulichkeit, Authentizitaet und Anonymitaet sich wiederherstellen. 
-
-
-<2AC online zugang im woertlichen in deutsch reinpacken ?>
-Waehrend meiner Arbeit zu blinden Signaturen, habe ich an Grundbausteinen gearbeitet, die es ermoeglichen Zugang zu online Ressourcen auf eine stark authentifizierte und anonyme Art und Weise zu ermoeglichen. Das heisst, das der Betreiber der Infrastruktur starke Garantien hat, dass der Dienst nicht missbraucht wird und die Nutzer der Dienste so datensparsam wie nur moeglich diese Dienste nutzen.
+<!--2AC online zugang im wörtlichen in deutsch reinpacken ?>-->
+Während unserer Arbeit zu blinden Signaturen, haben wir an Grundbausteinen gearbeitet, die es ermöglichen Zugang zu online Ressourcen auf eine stark authentifizierte und anonyme Art und Weise zu ermöglichen. Das heisst, dass Betreiber der Infrastruktur starke Garantien haben, dass der Dienst nicht missbraucht werden kann und die BürgerInnen haben die Garantie, dass so wenig Daten wie möglich anfallen.
 
 
 
